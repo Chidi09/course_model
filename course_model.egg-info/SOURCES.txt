@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+course_model/__init__.py
+course_model/core.py
+course_model/presets.py
+course_model/utils.py
+course_model.egg-info/PKG-INFO
+course_model.egg-info/SOURCES.txt
+course_model.egg-info/dependency_links.txt
+course_model.egg-info/top_level.txt
